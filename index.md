@@ -5,8 +5,8 @@ title: "Neil Wiborg"
 
 ## Site index
 
-* [School and Work](neilwiborg.github.io/schoolandwork)
-* [Hobbies](neilwiborg.github.io/hobbies)
+* [School and Work](neilwiborg.github.io/SchoolAndWork)
+* [Hobbies](neilwiborg.github.io/Hobbies)
 
 ## Background
 
